@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ObjectError","The Object error can occur when creating an object file from a `Compilation`."]]};

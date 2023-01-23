@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ModuleTranslationState","Contains information decoded from the Wasm module that must be referenced during each Wasm function’s translation."]],"type":[["WasmTypes","Map of signatures to a function’s parameter and return types."]]};

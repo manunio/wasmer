@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["BoxedSlice","A slice mapping `K -> V` allocating dense entity references."]]};
